@@ -1,6 +1,7 @@
 # Huffman Coding
 A University Coursework piece on data compression with it's own Huffman Compression algorithm.
 This repo also contains the decompression algorythm and a pdf research piece into data compression coupled with data anylasis on this project.
+There is also a folder, TestData which contains books from https://www.gutenberg.org/ and data sets from http://pizzachili.dcc.uchile.cl/repcorpus.html along with their encoded files so feel free to use them if you want data sets to test on, just drag them out of the folder and into the main parent folder
 
 How to enocde:
 1. Create a text file or any text based input file
